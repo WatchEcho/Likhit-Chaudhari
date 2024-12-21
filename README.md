@@ -70,11 +70,11 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 🎓 **Education**
 
-- **Master of Science in Information Technology and Analytics** - Rochester Institute of Technology (January 2023 - August 2025)  
-  Coursework: Database Design and Implementation, Non-Relational Database Management, Visual Analytics, Foundation of Data Science and Analytics, Data Warehousing, Information Retrieval and Text Mining, Time Series Analysis and Forecasting, Data-Driven Knowledge Discovery. 
-  CGPA: 3.8/4.0
-- **Bachelor of Technology in Computer Science and Engineering** - MIT World Peace University (July 2018 - July 2022)  
-  CGPA: 9.27/10.0
+- **Master of Science in Information Technology and Management** - The University of Texas at Dallas (August 2024 - May 2026)  
+  Coursework: Database Management System, Cloud Computing Fundamentals, Marketing Web Analytics and Insights, Foundation of Digital Product Management. 
+  CGPA: 3.5/4.0
+- **Bachelor of Engineering in Mechanical Engineering (Hons in Robotics)** - University of Pune (November 2020 - June 2024)  
+  CGPA: 8.50/10.0
 
 ---
 
