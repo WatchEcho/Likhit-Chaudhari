@@ -90,7 +90,7 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 ## Tools
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Microsoft Suite](https://img.shields.io/badge/Microsoft%20Suite-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white) ![Microsoft Suite](https://img.shields.io/badge/Microsoft%20Suite-0078D4?style=for-the-badge&logo=microsoft&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white) ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
 
@@ -98,9 +98,9 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 📫 **Get in Touch**
 
-- Email: [pg5598@rit.edu](mailto:pg5598@rit.edu)
-- LinkedIn: [Parth Gawande](https://www.linkedin.com/in/parthgawande)
+- Email: [lpc240000@utdallas.edu](mailto:lpc240000@utdallas.edu)
+- LinkedIn: [Likhit Chaudhari](https://www.linkedin.com/in/likhitchaudhari)
 
 ---
 
-⭐️ From [Parth Gawande](https://github.com/parthgawande)
+⭐️ From [Likhit Chaudhari](https://github.com/Likhit-Chaudhari)
