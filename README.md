@@ -16,30 +16,25 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 🚀 **What I'm Passionate About**
 - **Data Analytics**: Utilizing statistical methods, time series analysis, and clustering to uncover insights from large datasets.
-- **Business Analytics**: Applying predictive analytics and performance metrics to streamline business operations and enhance decision-making..
+- **Business Analytics**: Applying predictive analytics and performance metrics to streamline business operations and enhance decision-making.
   
 
 ---
 
 ### 💼 **Work Experience**
 
-#### **Data Analyst | StandardWings Technologies Pvt. Ltd. (July 2022 - Dec 2022)**
-● Conducted analysis of garbage collection operations for Nashik Municipal Corporation using GPS and IoT data integrated on AWS: Performed an in-depth analysis of GPS and IoT sensor data for garbage collection vehicles to identify and address inefficiencies in routing. Utilized AWS cloud services to centralize and process data, enabling advanced insights into vehicle routes. This analysis helped refine routes and operational procedures, achieving a 23% reduction in response times, which improved the overall efficiency of waste collection.
+#### **Business Aanalyst Intern | Sigma Calibration Labs (February 2023 - August 2023)**
+● Enhanced Inventory Management: Developed analytical models using Python and SQL that improved the accuracy of inventory forecasts by 20%. This initiative directly contributed to a reduction in stock shortages by 18%, ensuring optimal inventory levels and minimizing operational disruptions.
 
-● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of garbage collection vehicle performance. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
+● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of calibration processes. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
 
-● Applied time-series analysis and clustering techniques on Azure Databricks to identify patterns in vehicle usage: Leveraged Azure Databricks to conduct time-series and clustering analyses on vehicle usage data, stored within cloud infrastructure. By identifying usage patterns and inefficiencies, the analysis facilitated optimized scheduling and resource allocation across the fleet. This data-driven approach on the cloud supported better fuel management, improved asset utilization, and enhanced overall service coverage.
+● Cost Reduction Initiatives: Led a data-driven analysis project that scrutinized procurement and logistics operations. By identifying inefficiencies and negotiating better terms with suppliers, achieved a 12% reduction in overall supply chain costs. This involved detailed cost-benefit analysis and collaboration with finance and procurement departments to align strategies with business goals.
 
-● Collaborated with cross-functional teams to consolidate GPS, RFID data, and municipal reports on Google BigQuery: Worked closely with data engineers, municipal staff, and project stakeholders to integrate data from GPS-enabled and RFID-tagged vehicles, as well as from municipal reporting systems, into a unified dataset on Google BigQuery. Ensured the accuracy and integrity of the data through rigorous validation, which supported data-driven decision-making for waste management strategies and improved inter-departmental collaboration.
+● Operational Efficiency and Supplier Collaboration: Partnered with the operations team to implement a new strategic framework that increased the on-time delivery rate from suppliers to 98%. This was achieved by enhancing supplier performance tracking and establishing more rigorous criteria for supplier selection based on data-driven insights.
 
-#### **Data Analytics Intern | The Sparks Foundation (Dec 2021 - May 2022)**
-● Developed AI-powered candidate screening: Built a CNN model to automate initial candidate screening, integrated with HR data on AWS to streamline selection. This tool efficiently shortlisted candidates, significantly reducing manual effort and improving recruitment efficiency by accelerating the evaluation process.
+● Data Visualization and Reporting: Spearheaded the creation of dynamic dashboards and comprehensive reports using Power BI, which tracked key performance indicators (KPIs) and operational metrics. These tools provided executives and team members with real-time insights into supply chain operations, facilitating quicker decision-making and fostering a culture of transparency and accountability.
 
-● Analyzed recruitment data for process optimization: Used Python and SQL to examine hiring trends and patterns within AWS-hosted data, enabling insights that helped reduce average time-to-hire by 10%. This analysis supported more targeted recruitment strategies aligned with hiring peaks and job requirements.
-
-● Automated data processing through ETL pipelines: Deployed ETL pipelines on AWS Lambda to automate the continuous transfer of recruitment data from multiple sources, improving data accuracy by 11% and reducing manual data entry. The streamlined data flow allowed HR to access up-to-date information for quicker decision-making.
-
-● Designed Power BI dashboards for real-time recruitment tracking: Created interactive dashboards linked to AWS Redshift, allowing HR to monitor recruitment stages in real time. The dashboards provided a centralized view for tracking applicant progress and enhanced collaboration through shared, cloud-based reporting.
+● Cross-functional Team Collaboration: Actively collaborated with IT and marketing teams to integrate analytics into broader business operations, resulting in more cohesive strategies that leveraged data across departments. This cross-pollination of ideas and data helped streamline operations and enhanced overall business intelligence capabilities.
 
 ---
 
