@@ -11,7 +11,7 @@
 
 ### 📝 Discover My Journey and Contributions to the Community
 
-I am Parth Gawande, a passionate Data Analyst and Deep Learning Enthusiast, currently pursuing my Master's in Information Technology and Analytics at Rochester Institute of Technology. With a strong foundation in data science and machine learning, I specialize in leveraging advanced AI techniques to solve real-world problems across various industries, including urban planning, agriculture, and social media analysis. My experience includes optimizing workflows, developing predictive models, and transforming complex datasets into actionable insights. I’m driven by a desire to push the boundaries of AI and data analytics, continuously exploring innovative solutions to address today's challenges. Let's connect and collaborate!
+I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuing my Master's in Information Technology and Management at The University of Texas at Dallas. With a strong foundation in data science and machine learning, I specialize in leveraging advanced AI techniques to solve real-world problems across various industries, including urban planning, agriculture, and social media analysis. My experience includes optimizing workflows, developing predictive models, and transforming complex datasets into actionable insights. I’m driven by a desire to push the boundaries of AI and data analytics, continuously exploring innovative solutions to address today's challenges. Let's connect and collaborate!
 
 
 ### 🚀 **What I'm Passionate About**
