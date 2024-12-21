@@ -103,4 +103,4 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ---
 
-⭐️ From [Likhit Chaudhari](https://github.com/Likhit-Chaudhari)
+⭐️ From [Likhit Chaudhari](https://github.com/WatchEcho)
