@@ -16,8 +16,8 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 🚀 **What I'm Passionate About**
 - **Data Analytics**: Utilizing statistical methods, time series analysis, and clustering to uncover insights from large datasets.
-- **Deep Learning**: Building sophisticated models for tasks like **image enhancement**, **sentiment analysis**, and **object detection**.
-- **Research in Machine Learning**: Developing AI-driven models for social good, such as improving crop yield, detecting dyslexia, and understanding human activity through CCTV monitoring.
+- **Business Analytics**: Applying predictive analytics and performance metrics to streamline business operations and enhance decision-making..
+  
 
 ---
 
