@@ -40,12 +40,14 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 🏆 **Featured Projects**
 
-#### GeoEnvision: Satellite Image Enhancement and Topography Detection
-- Enhanced satellite imagery by 24% using **Deep Super-Resolution** and **YOLOv3** for object detection, achieving a mean average precision (mAP) of 89.6%.
-- Processed over 40,000 **Sentinel-2** and **Landsat-8** images, leveraging advanced techniques like **PSNR** and **SSIM** for performance evaluation.
+#### Stock Probability Model for Inventory Optimization
+- Integrated safety stock levels and demand variability into the model. This strategy was tailored for items with high demand variability, which significantly reduced the risk of stockouts by 30% during peak demand periods.
+- The model achieved a 91% accuracy rate in predicting stockout risks for high-demand products. It was instrumental in reducing stockout incidents by 40%, leading to an estimated annual savings of $200,000 in lost sales and increased customer satisfaction.
 
-#### Smart City Data Warehouse Architecture
-- Engineered a centralized data warehouse integrating data from **IoT sensors** and traffic systems for urban analytics, improving query performance by 50%.
+#### Supplier Performmance Analysis
+- Crafted a comprehensive supplier evaluation model in Excel, using weighted scoring criteria for delivery timeliness, cost effectiveness, and quality performance. This model improved the selection process by quantifying supplier performance, resulting in a 15% overall increase in supply chain reliability.
+- Engineered an interactive Power BI dashboard to effectively visualize supplier rankings, trends, and key performance indicators. The dashboard facilitated enhanced decision-making, leading to a 20% improvement in procurement efficiency by highlighting performance bottlenecks and enabling quick corrective actions.
+- Applied advanced operational management principles, including supplier scorecards and Pareto analysis, to refine procurement strategies. This approach not only streamlined supplier evaluations but also boosted supply chain efficiency by 25%, minimizing lead times and reducing costs associated with underperforming suppliers.
 
 #### Multimodal Emotion Recognition in Social Media Using LLMs
 - Achieved 92% accuracy in emotion detection by combining **Large Language Models (LLMs)** with computer vision algorithms across 10k social media posts.
