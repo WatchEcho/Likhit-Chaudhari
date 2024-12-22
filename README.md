@@ -23,7 +23,7 @@ I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuin
 
 ### 💼 **Work Experience**
 
-#### **Business Aanalyst Intern | Sigma Calibration Labs (February 2023 - August 2023)**
+#### **Business Analyst Intern | Sigma Calibration Labs (February 2023 - August 2023)**
 ● Enhanced Inventory Management: Developed analytical models using Python and SQL that improved the accuracy of inventory forecasts by 20%. This initiative directly contributed to a reduction in stock shortages by 18%, ensuring optimal inventory levels and minimizing operational disruptions.
 
 ● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of calibration processes. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
