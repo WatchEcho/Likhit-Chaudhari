@@ -51,11 +51,12 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 - Engineered an interactive Power BI dashboard to effectively visualize supplier rankings, trends, and key performance indicators. The dashboard facilitated enhanced decision-making, leading to a 20% improvement in procurement efficiency by highlighting performance bottlenecks and enabling quick corrective actions.
 - Applied advanced operational management principles, including supplier scorecards and Pareto analysis, to refine procurement strategies. This approach not only streamlined supplier evaluations but also boosted supply chain efficiency by 25%, minimizing lead times and reducing costs associated with underperforming suppliers.
 
-#### Multimodal Emotion Recognition in Social Media Using LLMs
-- Achieved 92% accuracy in emotion detection by combining **Large Language Models (LLMs)** with computer vision algorithms across 10k social media posts.
+#### Advaned Logistics and Transportation Analysis 
+- Dashboard Development and Deployment: Designed and implemented a comprehensive Excel dashboard to manage and monitor key logistics and transportation metrics. This tool provided real-time insights into operational data such as delivery times, drivers wages and driver allotted.
+- Data Integration and Analysis: Integrated diverse data sources, including GPS tracking data, delivery schedules, and driver performance records, to create a unified view of the logistics operations. Utilized advanced Excel functions and data visualization techniques to analyze over 10,000 data points monthly, enhancing data accessibility and usability for decision-making.
+- Performance Improvement: The dashboard directly contributed to a 20% increase in route efficiency by identifying optimal routes and reducing unnecessary travel. Additionally, it enabled a 15% reduction in fuel costs through the analysis of vehicle performance and scheduling adjustments based on real-time data.
+- Strategic Decision Support: Provided executives and operations managers with actionable insights, leading to improved strategic decisions. The enhanced data-driven approach supported a 30% improvement in on-time delivery rates and significantly boosted customer satisfaction by ensuring more reliable service.
 
-#### [Detection of Dyslexia Based on Eye Movements](https://github.com/parthgawande/Detection-of-Dyslexia-based-on-eye-movements)
-- Led a project using machine learning to analyze over 47 eye movement patterns, achieving 91% accuracy in dyslexia detection.
 
 ---
 
