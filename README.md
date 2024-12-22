@@ -11,7 +11,9 @@
 
 ### 📝 Discover My Journey and Contributions to the Community
 
-I am Likhit Chaudhari, a passionate Business and Data Analyst, currently pursuing my Master's in Information Technology and Management at The University of Texas at Dallas. With a strong foundation in data science and machine learning, I specialize in leveraging advanced AI techniques to solve real-world problems across various industries, including urban planning, agriculture, and social media analysis. My experience includes optimizing workflows, developing predictive models, and transforming complex datasets into actionable insights. I’m driven by a desire to push the boundaries of AI and data analytics, continuously exploring innovative solutions to address today's challenges. Let's connect and collaborate!
+I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analytics Enthusiast, currently pursuing my Master's in Information Technology and Management at The University of Texas at Dallas. With a robust foundation in analytics and a keen interest in leveraging data-driven insights, I specialize in translating complex datasets into actionable strategies that drive efficiency and innovation. My academic and professional journey spans diverse domains, including supply chain management, manufacturing operations, and business process optimization. My experiences have equipped me with skills in developing dynamic dashboards, streamlining workflows, and enhancing decision-making processes through predictive modeling and data visualization. Fueled by a commitment to solving modern business challenges, I aim to bridge the gap between technology and strategy, continuously exploring innovative approaches to deliver value. Let's connect and collaborate!
+
+
 
 
 ### 🚀 **What I'm Passionate About**
