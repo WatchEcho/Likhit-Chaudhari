@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/likhitchaudhari)](https://www.linkedin.com/in/likhitchaudhari) 
 [![GitHub](https://img.shields.io/badge/-GitHub-333?style=flat-square&logo=GitHub&logoColor=white&link=https://github.com/WatchEcho)](https://github.com/WatchEcho) 
-[![Resume](https://img.shields.io/badge/-Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/WatchEcho/Likhit-Chaudhari/raw/main/Llikhit*Resume*BA.pdf)
+[![Resume](https://img.shields.io/badge/-Resume-red?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/WatchEcho/Likhit-Chaudhari/raw/main/Llikhit**Resume**BA.pdf)
 
 
 ---
