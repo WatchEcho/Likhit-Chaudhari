@@ -40,8 +40,11 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 
 #### **Supply Chain Intern | Jain Irrigation Systems.Ltd (October 2023 - January 2024)**
 •	Streamlined supply chain processes for PVC & HDPE piping systems, introducing real-time inventory tracking to reduce excess stock by 10%, enhance material flow, and automate inventory management, cutting manual errors by 20%.
+
 •	Designed and implemented a supplier evaluation framework, reducing raw material rejection rates by 15% and ensuring consistent quality by defining assessment criteria, conducting audits, and introducing a standardized scoring mechanism for PVC resins, and HDPE granules.
+
 •	Optimized logistics workflows for domestic and international markets, achieving 92% delivery accuracy, cutting lead times by 12%, and enhancing customer satisfaction by 15% through route optimization, real-time tracking, and streamlined export compliance procedures.
+
 •	Streamlined material handling processes, decreasing delays by 18% and boosting operational efficiency by collaborating with cross-functional teams, upgrading handling equipment, and incorporating lean principles like kanban systems
 
 
