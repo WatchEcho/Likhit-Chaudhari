@@ -26,17 +26,21 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 ### 💼 **Work Experience**
 
 #### **Business Analyst Intern | Sigma Calibration Labs (February 2023 - August 2023)**
-● Enhanced Inventory Management: Developed analytical models using Python and SQL that improved the accuracy of inventory forecasts by 20%. This initiative directly contributed to a reduction in stock shortages by 18%, ensuring optimal inventory levels and minimizing operational disruptions.
+● Process Optimization & Automation:
+1) Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing operational efficiency.
+2) Implemented process improvements and automation solutions, leading to a 15% increase in productivity across multiple departments.
 
-● Designed interactive dashboards in Tableau and Power BI connected to AWS Redshift for real-time performance monitoring: Developed interactive dashboards in Tableau and Power BI linked directly to AWS Redshift, which displayed key operational metrics for real-time tracking of calibration processes. Incorporated machine learning forecasts into the dashboards, enabling predictive insights that allowed management to address potential delays proactively. This approach led to a 14% reduction in decision-making time, enhancing data accessibility and enabling timely responses to operational needs.
-
-● Cost Reduction Initiatives: Led a data-driven analysis project that scrutinized procurement and logistics operations. By identifying inefficiencies and negotiating better terms with suppliers, achieved a 12% reduction in overall supply chain costs. This involved detailed cost-benefit analysis and collaboration with finance and procurement departments to align strategies with business goals.
-
-● Operational Efficiency and Supplier Collaboration: Partnered with the operations team to implement a new strategic framework that increased the on-time delivery rate from suppliers to 98%. This was achieved by enhancing supplier performance tracking and establishing more rigorous criteria for supplier selection based on data-driven insights.
-
-● Data Visualization and Reporting: Spearheaded the creation of dynamic dashboards and comprehensive reports using Power BI, which tracked key performance indicators (KPIs) and operational metrics. These tools provided executives and team members with real-time insights into supply chain operations, facilitating quicker decision-making and fostering a culture of transparency and accountability.
-
-● Cross-functional Team Collaboration: Actively collaborated with IT and marketing teams to integrate analytics into broader business operations, resulting in more cohesive strategies that leveraged data across departments. This cross-pollination of ideas and data helped streamline operations and enhanced overall business intelligence capabilities.
+● Cross-Functional Collaboration:
+1) Engaged with 3+ cross-functional teams, including finance, operations, and quality control, to gather business requirements, define project scopes, and ensure alignment with organizational objectives.
+2) Fostered effective teamwork and project success through active coordination and communication between stakeholders.
+   
+● Data Analysis & Reporting:
+1) Produced 15+ comprehensive reports and presentations summarizing insights, key findings, and strategic recommendations.
+2) Facilitated data-driven decision-making by providing structured reports that improved clarity and actionability for senior leadership.
+   
+● Market Research & Business Insights:
+1) Conducted in-depth market research and competitor analysis, leading to the identification of 10+ key trends that influenced strategic business decisions.
+2) Analyzed pricing strategies, customer preferences, and industry best practices to enhance service offerings and competitive positioning.
 
 #### **Supply Chain Intern | Jain Irrigation Systems.Ltd (October 2023 - January 2024)**
 •	Streamlined supply chain processes for PVC & HDPE piping systems, introducing real-time inventory tracking to reduce excess stock by 10%, enhance material flow, and automate inventory management, cutting manual errors by 20%.
