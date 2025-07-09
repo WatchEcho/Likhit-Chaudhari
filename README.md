@@ -27,10 +27,15 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 
 #### **Business Analyst Intern | Bosch Chassis Systems Pvt.Ltd. (May 2024 - July 2023)**
 ●	Designed, developed, and maintained business intelligence dashboards for senior leadership, using Power BI, automating data workflows and reducing report turnaround time by almost 40%
+
 ●	Analyzed operational data to identify trends and inefficiencies, reducing process turnaround time by 10% through actionable insights and workflow enhancements
+
 ●	Collaborated with a cross-functional team to develop ETL pipelines, improving data processing efficiency by 15%
+
 ●	Crafted JIRA user stories using customer requirements and devised B2B pricing strategy, yielding 15% profit margin boost
+
 ●	Demonstrated strong analytical thinking, problem-solving, and adaptability, consistently delivering high-quality results in a fast-paced environment
+
 
 #### **Business Analyst Intern | Jain Irrigation Systems.Ltd (February 2023 - August 2023)**
 ●	Analyzed data from 1M+ monthly active users using SQL and MS Excel and used the outputs to guide marketing and product strategies which increased the company revenue by 30%
