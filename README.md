@@ -39,10 +39,15 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 
 #### **Business Analyst Intern | Jain Irrigation Systems.Ltd (February 2023 - August 2023)**
 ●	Analyzed data from 1M+ monthly active users using SQL and MS Excel and used the outputs to guide marketing and product strategies which increased the company revenue by 30%
+
 ●	Performed detailed analysis on raw data and developed financial reports using Power BI, saving 10 hours/week of reporting
+
 ●	Streamlined data collection and reporting procedures, reducing processing time by 20% enhancing efficiency
+
 ●	Built reports to meet the reporting requirements of cross-functional global teams such as sales, marketing, and partnerships using advanced Excel formulas, DAX, and MS PowerPoint, enabling increased accessibility of insights across the organization
+
 ●	Led the implementation of Hubspot CRM analytics & Google Analytics to analyze user behavior and optimize website performance, resulting in a 12% increase in lead conversion rate through data-driven marketing strategies
+
 
 ---
 
