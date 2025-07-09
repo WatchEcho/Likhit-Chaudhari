@@ -25,32 +25,19 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 
 ### 💼 **Work Experience**
 
-#### **Business Analyst Intern | Sigma Calibration Labs (February 2023 - August 2023)**
-● Process Optimization & Automation:
-1) Streamlined data collection and reporting procedures, reducing processing time by 20%, enhancing operational efficiency.
-2) Implemented process improvements and automation solutions, leading to a 15% increase in productivity across multiple departments.
+#### **Business Analyst Intern | Bosch Chassis Systems Pvt.Ltd. (May 2024 - July 2023)**
+●	Designed, developed, and maintained business intelligence dashboards for senior leadership, using Power BI, automating data workflows and reducing report turnaround time by almost 40%
+●	Analyzed operational data to identify trends and inefficiencies, reducing process turnaround time by 10% through actionable insights and workflow enhancements
+●	Collaborated with a cross-functional team to develop ETL pipelines, improving data processing efficiency by 15%
+●	Crafted JIRA user stories using customer requirements and devised B2B pricing strategy, yielding 15% profit margin boost
+●	Demonstrated strong analytical thinking, problem-solving, and adaptability, consistently delivering high-quality results in a fast-paced environment
 
-● Cross-Functional Collaboration:
-1) Engaged with 3+ cross-functional teams, including finance, operations, and quality control, to gather business requirements, define project scopes, and ensure alignment with organizational objectives.
-2) Fostered effective teamwork and project success through active coordination and communication between stakeholders.
-   
-● Data Analysis & Reporting:
-1) Produced 15+ comprehensive reports and presentations summarizing insights, key findings, and strategic recommendations.
-2) Facilitated data-driven decision-making by providing structured reports that improved clarity and actionability for senior leadership.
-   
-● Market Research & Business Insights:
-1) Conducted in-depth market research and competitor analysis, leading to the identification of 10+ key trends that influenced strategic business decisions.
-2) Analyzed pricing strategies, customer preferences, and industry best practices to enhance service offerings and competitive positioning.
-
-#### **Supply Chain Intern | Jain Irrigation Systems.Ltd (October 2023 - January 2024)**
-•	Streamlined supply chain processes for PVC & HDPE piping systems, introducing real-time inventory tracking to reduce excess stock by 10%, enhance material flow, and automate inventory management, cutting manual errors by 20%.
-
-•	Designed and implemented a supplier evaluation framework, reducing raw material rejection rates by 15% and ensuring consistent quality by defining assessment criteria, conducting audits, and introducing a standardized scoring mechanism for PVC resins, and HDPE granules.
-
-•	Optimized logistics workflows for domestic and international markets, achieving 92% delivery accuracy, cutting lead times by 12%, and enhancing customer satisfaction by 15% through route optimization, real-time tracking, and streamlined export compliance procedures.
-
-•	Streamlined material handling processes, decreasing delays by 18% and boosting operational efficiency by collaborating with cross-functional teams, upgrading handling equipment, and incorporating lean principles like kanban systems
-
+#### **Business Analyst Intern | Jain Irrigation Systems.Ltd (February 2023 - August 2023)**
+●	Analyzed data from 1M+ monthly active users using SQL and MS Excel and used the outputs to guide marketing and product strategies which increased the company revenue by 30%
+●	Performed detailed analysis on raw data and developed financial reports using Power BI, saving 10 hours/week of reporting
+●	Streamlined data collection and reporting procedures, reducing processing time by 20% enhancing efficiency
+●	Built reports to meet the reporting requirements of cross-functional global teams such as sales, marketing, and partnerships using advanced Excel formulas, DAX, and MS PowerPoint, enabling increased accessibility of insights across the organization
+●	Led the implementation of Hubspot CRM analytics & Google Analytics to analyze user behavior and optimize website performance, resulting in a 12% increase in lead conversion rate through data-driven marketing strategies
 
 ---
 
@@ -79,7 +66,7 @@ I am Likhit Prashant Chaudhari, a passionate Business Analytics and Data Analyti
 
 - **Master of Science in Information Technology and Management** - The University of Texas at Dallas (August 2024 - May 2026)  
   Coursework: Database Management System, Cloud Computing Fundamentals, Marketing Web Analytics and Insights, Foundation of Digital Product Management. 
-  CGPA: 3.5/4.0
+  CGPA: 3.4/4.0
 - **Bachelor of Engineering in Mechanical Engineering (Hons in Robotics)** - University of Pune (November 2020 - June 2024)  
   CGPA: 8.50/10.0
 
